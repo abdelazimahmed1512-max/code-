@@ -1,0 +1,6 @@
+{
+  "name": "شفا - نظام حجز المواعيد الطبية",
+  "description": "نظام مصغر متكامل لإدارة العيادات وحجز المواعيد الطبية مع لوحة تحكم المسؤول وسجل المرضى واختيار الأطباء",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
